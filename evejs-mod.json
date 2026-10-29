@@ -1,0 +1,41 @@
+{
+  "author": {
+    "id": "au-mvgf59rqpaue",
+    "keyId": "6d218baa968e",
+    "name": "普罗旺斯煎饼果子"
+  },
+  "category": "玩法",
+  "changelog": "对目前AIR的修复，能做到基本可用，但仍有部分内容未修复，同时需结合AIR开箱补丁一起使用，否则AIR箱子开出来是三钛合金。",
+  "conflicts": [],
+  "delisted": false,
+  "description": "修复 261018.x 星空会(AIR)职业计划页面打不开/领取不落库：注册 career/aura 网关服务 + 启动期任务进度同步。v1.1.0（AIR 第二阶段批次A）：电容抽放/吸电容 GJ、EWAR 计秒、远程盾注/甲修 HP 接入职业计划目标（仅玩家对 Capsuleer；目标组 CapacitorWarfare/ElectronicWarfare/Support）。",
+  "displayName": "星空会职业计划修复",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/jealous123456789/evejs-mod-evejs-air-career-fix/releases/download/v1.1.0/evejs-air-career-fix-1.1.0.zip"
+    }
+  ],
+  "evejsVersions": [
+    "261018.x"
+  ],
+  "featured": false,
+  "highlights": [],
+  "history": [],
+  "id": "evejs-air-career-fix",
+  "publishedAt": "2026-10-29",
+  "readme": [
+    "适用：EveJS 261018.x（在 261018.1 上生成并通过自检）。"
+  ],
+  "repo": "https://github.com/jealous123456789/evejs-mod-evejs-air-career-fix",
+  "requiresRestart": true,
+  "sha256": "88e9e088cc5248d788eb800b6a7c27d20af83783da9e44f127137f3941762e08",
+  "sizeBytes": 14821,
+  "tags": [
+    "修复",
+    "AIR",
+    "职业计划"
+  ],
+  "version": "1.1.0"
+}
